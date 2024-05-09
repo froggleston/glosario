@@ -10491,3 +10491,9 @@
       obtained by plotting the True Positive Rate (also known as Recall or [Sensitivity](#sensitivity))
       along the vertical axis and the False Positive Rate along the horizontal axis.
 
+- slug: ratio
+  en:
+    term: "ratio"
+    def: >
+      The quantitative relation between two amounts showing the number of times one value contains or
+      is contained within the other.
